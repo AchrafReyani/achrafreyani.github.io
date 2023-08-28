@@ -1,0 +1,10 @@
+what do I want to be on the portfolio website?
+
+HOME
+PORTFOLIO (PROJECTS)
+	project page
+RESUME
+CONTACT
+
+option to change language?
+easiest might be to copy the website after it's finished and change the language and then add a button that lets you go to the different versions of the website
